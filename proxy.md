@@ -1,5 +1,5 @@
 enable: 0
-proxy:
+proxy: socks5:151.245.206.34:8029:cqrswmoc:uycejt43pqn7
 kick: 
 # Дополнительные параметры (по желанию)
 max-connections: 3
