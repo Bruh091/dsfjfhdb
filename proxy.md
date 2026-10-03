@@ -1,7 +1,6 @@
 enable: 0
 proxy:
-kick: 
-delete: 0
+kick: yaq36
 
 # Дополнительные параметры (по желанию)
 max-connections: 3
